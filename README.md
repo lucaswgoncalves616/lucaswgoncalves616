@@ -1,3 +1,6 @@
-### Olá, meu nome é Lucas Wendell!
+## Yo!
+I'm Lucas. I write code, break code, and then fix it (at least I try).  
+Here you’ll find random projects, experiments, and some exercises from class.
+Currently focusing on Java | Javascript
 
-<p>Estudando no SENAI Suiço-Brasileira<br/>Java | Javascript Developer</p>
+PRs welcome. Also, yes — I’m open for work. 
